@@ -4,9 +4,9 @@ Copyright © 2023 afrizal <afriizaalll@gmail.com>
 package main
 
 import (
-	"kript/cmd/decryptor"
+	"kript/cmd/encryptor"
 )
 
 func main() {
-	decryptor.Execute()
+	encryptor.Execute()
 }
